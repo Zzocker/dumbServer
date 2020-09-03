@@ -2,7 +2,7 @@ set terminal png size 1280,720
 
 set output "src/benchmark.png"
 
-set title "ab -t 1000 -c 1000"
+set title "ab -t 1000 -c 3000"
 
 set grid y
 
